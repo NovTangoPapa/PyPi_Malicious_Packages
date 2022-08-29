@@ -1,4 +1,5 @@
 package,type,ioc,notes,source
+deep-translator,Legitimate Compromised,,,https://inspector.pypi.io/project/deep-translator/1.8.5/packages/4e/73/b15ec02d15c80f4ad9b18806851e21bbe704f075ef0fb53b8d01458dac67/deep-translator-1.8.5.tar.gz/deep-translator-1.8.5/setup.py#line.10
 Ascii2text,Password Stealers,,There appear to be IOCs in the screenshots of source but have not confirmed.,https://research.checkpoint.com/2022/cloudguard-spectral-detects-several-malicious-packages-on-pypi-the-official-software-repository-for-python-developers/
 Pyg-utils,Password Stealers,,There appear to be IOCs in the screenshots of source but have not confirmed.,https://research.checkpoint.com/2022/cloudguard-spectral-detects-several-malicious-packages-on-pypi-the-official-software-repository-for-python-developers/
 Pymocks,Password Stealers,,There appear to be IOCs in the screenshots of source but have not confirmed.,https://research.checkpoint.com/2022/cloudguard-spectral-detects-several-malicious-packages-on-pypi-the-official-software-repository-for-python-developers/
